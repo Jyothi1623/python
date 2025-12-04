@@ -1,0 +1,21 @@
+patient_id,patient_name,age,gender,disease,doctor_name
+1,Aarav Kumar,45,Male,Chest Pain,Dr. Ramesh
+2,Meena Sharma,32,Female,Migraine,Dr. Priya
+3,Rajesh Patel,56,Male,Joint Pain,Dr.Anil
+4,Sita Devi,28,Female,Skin Allergy,Dr  Sunitha
+5,Vikram Singh,50,Male,Fever & Cold,Dr. Raju
+6,Neha Verma,38,Female,Heart Discomfort,Dr John
+7,Anil Kumar,60,Male,Hearing Issue,Dr. Meena
+8,Pooja Sharma,30,Female,Knee Swelling,Dr.Anil
+9,Ravi Teja,42,Male,High Bp,Dr Ross
+10,Lakshmi Rao,26,Female,Skin Rash,Dr  Sunitha
+11,Suresh Reddy,47,Male,Chest Tightness,Dr. Ramesh
+12,Ananya Gupta,34,Female,Memory Loss,Dr. Priya
+13,Deepak Yadav,52,Male,Joint Stiffness,Dr.Anil
+14,Kavya Nair,29,Female,Weakness,Dr. Raju
+15,Mohit Jain,39,Male,Ear Infection,Dr. Meena
+16,Nisha Patel,41,Female,Breathing Issue,Dr John
+17,Harish Kumar,48,Male,Skin Itching,Dr  Sunitha
+18,Sneha Kapoor,31,Female,Vertigo,Dr. Priya
+19,Ajay Rana,55,Male,Knee Pain,Dr.Anil
+20,Divya Sharma,37,Female,Fever & Cold,Dr. Raju

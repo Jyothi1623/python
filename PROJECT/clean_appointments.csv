@@ -1,0 +1,17 @@
+appointment_id,patient_id,doctor_id,appointment_date,diagnosis
+201,1,101,2024-08-12,Chest Pain
+202,6,101,2024-09-10,Severe Heart Ache
+203,7,101,2024-10-11,Bp & Heart Issue
+204,2,102,2024-09-05,Headack & Stress
+205,9,102,2024-10-20,Migrain & Dizzy
+206,5,103,2024-07-25,Knee Swelling
+207,8,103,2024-08-22,Joint Pain
+208,4,105,2024-11-07,High Sugr
+209,3,104,2024-10-15,Rash & Itching
+210,10,106,2024-11-13,Chest Tightness
+211,11,101,2024-08-18,Chest Discomfort
+212,12,102,2024-09-12,Memory Loss
+213,13,104,2024-10-20,Skin Allergy
+214,14,105,2024-11-10,Weakness
+215,15,103,2024-07-28,Joint Stiffness
+216,16,106,2024-11-22,Heavy Breathing
